@@ -4,7 +4,7 @@ En nuestro proyecto hemos llevado a cabo una interfaz gráfica de usuario para l
 
 ## Dos ventanas de texto
 - La de arriba refleja la operación completa de 2 números. Una vez que le das al botón *=* se borra
-- La de abajo refleja el botón pulsado actualmente.
+- La de abajo refleja el botón pulsado actualmente, que se queda vacia en caso de pulsar cualquier operación o el símbolo *=*.
 
 ## Botones
 Esta calculadora cuenta con diferentes botones:
@@ -21,3 +21,4 @@ Esta calculadora cuenta con diferentes botones:
 - División
 - Primo o no
 - Factorial de un número
+
