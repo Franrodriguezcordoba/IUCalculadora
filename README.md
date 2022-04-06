@@ -4,7 +4,7 @@ En nuestro proyecto hemos llevado a cabo una interfaz gráfica de usuario para l
 
 ## Dos ventanas de texto
 - La de arriba refleja la operación completa de 2 números. Una vez que le das al botón *=* se borra
-- La de abajo refleja el botón pulsado actualmente, que se queda vacia en caso de pulsar cualquier operación o el símbolo *=*.
+- La de abajo refleja el botón pulsado actualmente, que se queda vacia en caso de pulsar cualquier operación o el símbolo *=*
 
 ## Botones
 Esta calculadora cuenta con diferentes botones:
@@ -12,7 +12,7 @@ Esta calculadora cuenta con diferentes botones:
 - El botón *B* que borra de dígito en dígito ambas ventanas de texto.
 - *C*, borra todo lo escrito en ambas ventanas.
 - Las diferentes operaciones.
-- Botón de *=*, el cuál nos dará el resultado de la operación
+- Botón de *=*, el cuál nos dará el resultado de la operación.
 
 ## Operaciones
 - Resta
